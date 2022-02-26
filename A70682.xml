@@ -1,0 +1,202 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The speech of the Lord High Steward, in Westminster Hall, at the time of his pronouncing the judgment of the House of Peers against the Lord Viscount Stafford, the seventh of December, 1680</title>
+            <author>Nottingham, Heneage Finch, Earl of, 1621-1682.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70682</idno>
+            <idno type="STC">Wing N1409</idno>
+            <idno type="STC">ESTC R14962</idno>
+            <idno type="EEBO-CITATION">11923477</idno>
+            <idno type="OCLC">ocm 11923477</idno>
+            <idno type="VID">50992</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70682)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50992)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 770:2 or 824:37)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The speech of the Lord High Steward, in Westminster Hall, at the time of his pronouncing the judgment of the House of Peers against the Lord Viscount Stafford, the seventh of December, 1680</title>
+                  <author>Nottingham, Heneage Finch, Earl of, 1621-1682.</author>
+               </titleStmt>
+               <extent>[2], 5-12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the assigns of John Bill, Thomas Newcomb, and Henry Hills ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>This item appears at reel 770:2 as Wing N1409, and at reel 824:37 as Wing S4864 (cancelled in Wing 2nd ed.).</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Stafford, William Howard, --  Viscount, 1614-1680.</term>
+               <term>Popish Plot, 1678.</term>
+               <term>Great Britain --  History --  Restoration, 1660-1688 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="license">
+            <pb facs="tcp:50992:1"/>
+            <!-- PDF PAGE 40 -->
+            <opener>
+               <dateline>
+                  <date>Die Martis 7<hi rend="sup">o</hi> Decemb. 1680.</date>
+               </dateline>
+            </opener>
+            <p>
+               <hi>ORdered by the Lords Spiritual and Temporal in Parliament aſſembled, That the Thanks of this Houſe be given to the Lord High Steward, for his Speech this day to the Lord Viſcount of</hi> Staf<g ref="char:EOLhyphen"/>ford <hi>in</hi> Weſtminſter Hall, <hi>at what time his Lordſhip Pronounced the Judgment of this Houſe againſt him. And his Lordſhip is hereby deſired to Print and Publiſh the ſame.</hi>
+            </p>
+            <closer>
+               <signed>
+                  <hi>Jo. Browne,</hi> Cleric' Parliamentor'.</signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:50992:1"/>
+            <!-- PDF PAGE 40 -->
+            <p>THE SPEECH OF THE Lord High Steward, IN WESTMINSTER HALL, At the time of his Pronouncing the JUDGMENT OF THE Houſe of Peers, Againſt The Lord Viſcount <hi>Stafford,</hi> The Seventh of <hi>December,</hi> 1680.</p>
+            <figure>
+               <p>HONI SOIT QVI MAL Y PENSE</p>
+               <p>DIEV ET MON DROIT</p>
+               <figDesc>royal blazon or coat of arms</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed by the Aſſigns of <hi>John Bill, Thomas Newcomb,</hi> and <hi>Henry Hills,</hi> Printers to the Kings moſt Excellent Majeſty. 1680.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:50992:2"/>
+            <!-- PDF PAGE 41 -->
+            <pb n="5" facs="tcp:50992:2"/>
+            <!-- PDF PAGE 41 -->
+            <head>THE SPEECH OF THE L<hi rend="sup">d</hi> High Steward, IN <hi>Weſtminſter Hall,</hi> at the time of his Pronouncing the Judgment of the Houſe of Peers againſt the Lord Viſcount <hi>Stafford,</hi> the Seventh of <hi>December,</hi> 1680.</head>
+            <opener>
+               <salute>My Lord Viſcount <hi>Stafford,</hi>
+               </salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat which your Lordſhip hath ſaid in Arreſt of Judg<g ref="char:EOLhyphen"/>ment, hath been found by my Lords, upon due Con<g ref="char:EOLhyphen"/>ſideration had of it, to be of no moment at all. It is no Eſſential part of any Trial, that the Priſoner ſhould hold up his Hand at the Bar; there is no Record ever made of it when it is done; the onely uſe of it is to ſhew the Court who the Priſoner is, and when that is apparent, the Court do's often proceed againſt him, though he
+<pb n="6" facs="tcp:50992:3"/>
+               <!-- PDF PAGE 42 -->refuſe to hold up his Hand at the Bar; therefore the omiſſion of that Ceremo<g ref="char:EOLhyphen"/>ny in this Caſe is no legal Exception, as all the Judges have declared.</p>
+            <p>And as to the Proviſo's in the Sta<g ref="char:EOLhyphen"/>tute of the 13<hi rend="sup">th</hi> Year of this King, thei<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Lordſhips do find that they are in no ſort applicable to this Caſe, foraſmuch as the Proceedings againſt your Lord<g ref="char:EOLhyphen"/>ſhip are not grounded upon that Sta<g ref="char:EOLhyphen"/>tute, but upon the Statute of the 25 <hi>E.</hi> 3. And yet if the Proceedings had been upon the latter Statute, the Proviſo's therein could have done your Lord<g ref="char:EOLhyphen"/>ſhip no ſervice at all.</p>
+            <p>My Part therefore which remains is a very ſad one: for I never yet gave Sentence of Death upon any man, and am extremely ſorry that I muſt begin with your Lordſhip.</p>
+            <p>Who would have thought that a Perſon of your Quality, of ſo Noble an Extraction, of ſo conſiderable Eſtate and Fortune, ſo eminent a Sufferer in the late ill Times, ſo Intereſted in the Preſervation of the Government, ſo much obliged to the Moderation of it, and ſo perſonally obliged to the King
+<pb n="7" facs="tcp:50992:3"/>
+               <!-- PDF PAGE 42 -->and His Royal Father for their particu<g ref="char:EOLhyphen"/>lar Favours to you, ſhould ever have entred into ſo Infernal a Conſpiracy, as to contrive the Murder of the King, the Ruine of the State, the Subverſion of Religion, and, as much as in you lay, the Deſtruction of all the Souls and Bodies in three Chriſtian Nations.</p>
+            <p>And yet the Impeachment of the Houſe of Commons amounts to no leſs a Charge, and of this Charge their Lordſhips have found you Guilty.</p>
+            <p>That there hath been a General and Deſperate Conſpiracy of the Papiſts, and that the Death of the King hath been all along one chief part of the Con<g ref="char:EOLhyphen"/>ſpirators Deſign, is now apparent be<g ref="char:EOLhyphen"/>yond all poſſibility of Doubting.</p>
+            <p>What was the meaning of all thoſe Treatiſes which were Publiſht about two years ſince againſt the Oath of Al<g ref="char:EOLhyphen"/>legiance, in a time when no man dreamt of ſuch a Controverſie? What was the meaning of Father <hi>Conyers</hi>'s Sermon upon the ſame Subject, but onely be<g ref="char:EOLhyphen"/>cauſe there was a Demonſtration of Zeal, as they call it, intended againſt the Perſon of the King? which the
+<pb n="8" facs="tcp:50992:4"/>
+               <!-- PDF PAGE 43 -->ſcruples ariſing from that Oath did ſomewhat hinder.</p>
+            <p>To what purpoſe were all the Cor<g ref="char:EOLhyphen"/>reſpondencies with Foreign Nations? The Collections of Money among the Fathers abroad and at home? What was the meaning of their Governing themſelves here by ſuch Advices as came frequently from <hi>Paris,</hi> and Saint <hi>Omers?</hi> And how ſhall we expound that Letter which came from <hi>Ireland,</hi> to aſſure the Fathers here, that all things were in a readineſs there too, as ſoon as the Blow ſhould be given?</p>
+            <p>Does any man now begin to doubt how <hi>London</hi> came to be Burnt? Or by what ways and means poor Juſtice <hi>Godfrey</hi> fell? And is it not apparent by theſe Inſtances, that ſuch is the fran<g ref="char:EOLhyphen"/>tick Zeal of ſome Biggotted Papiſts, that they reſolve, No means to Advance the Catholick Cauſe ſhall be left unat<g ref="char:EOLhyphen"/>tempted, though it be by Fire and Sword?</p>
+            <p>My Lord, As the Plot in General is moſt manifeſt, ſo your Lordſhips part in it hath been too too plain. What you did at <hi>Paris,</hi> and continued to do at
+<pb n="9" facs="tcp:50992:4"/>
+               <!-- PDF PAGE 43 -->
+               <hi>Tixall</hi> in <hi>Staffordſhire,</hi> ſhews a ſetled purpoſe of mind againſt the King; and what you ſaid at <hi>London</hi> touching <hi>Ho<g ref="char:EOLhyphen"/>neſt Will,</hi> ſhews you were acquainted with that Conſpiracy againſt the Kings Life which was carrying on here too: And in all this there was a great Degree of Malice; for your Lordſhip at one time called the King Heretick and Traitor to God; and at another time you Revil'd him for miſplacing his Bounty, and rewarding none but Trai<g ref="char:EOLhyphen"/>tors and Rebels.</p>
+            <p>And thus you ſee that which the <hi>Wiſe man</hi> forewarn'd you of is come upon you, <hi>Curſe not the King, no not in thy heart, for the Birds of the Air ſhall reveal, and that which hath Wings will declare the matter.</hi>
+            </p>
+            <p>Three things I ſhall preſume to re<g ref="char:EOLhyphen"/>commend to your Lordſhips conſide<g ref="char:EOLhyphen"/>ration. In the firſt place, Your Lordſhip now ſees how it hath pleaſed God to leave you ſo far to your ſelf, that you are fallen into the Snare, and into the Pit, into that very Pit which you were digging for others. Conſider there<g ref="char:EOLhyphen"/>fore, that God Almighty never yet
+<pb n="10" facs="tcp:50992:5"/>
+               <!-- PDF PAGE 44 -->left any man, who did not firſt leave Him.</p>
+            <p>In the next place, Think a little bet<g ref="char:EOLhyphen"/>ter of it than hitherto you have done, what kind of Religion that is in which the Blind Guides have been able to lead you on into ſo much ruine and deſtru<g ref="char:EOLhyphen"/>ction as is now like to befall you.</p>
+            <p>In the laſt place, I pray your Lord<g ref="char:EOLhyphen"/>ſhip to conſider, That true Repentance is never too late. A Devour Peniten<g ref="char:EOLhyphen"/>tial Sorrow, joyn'd with an humble and hearty Confeſſion, is of Mighty power and efficacy both with God and man.</p>
+            <p>There have been ſome of late, who have refus'd to give God the Glory of his Juſtice by acknowledging the Crimes for which they were Con<g ref="char:EOLhyphen"/>demn'd; Nay, who have been taught to believe, that 'tis a mortal ſin to Confeſs that Crime in Publick, for which they have been Abſolv'd in Private; and ſo have not dar'd to give God that Glory which otherwiſe they would have done.</p>
+            <p>God forbid your Lordſhip ſhould reſt upon Forms, God forbid your
+<pb n="11" facs="tcp:50992:5"/>
+               <!-- PDF PAGE 44 -->Lordſhip ſhould be found among the number of thoſe poor miſtaken Souls whom the firſt thing that undeceives, is Death it ſelf.</p>
+            <p>Perhaps your Lordſhip may not much Eſteem the Prayers of thoſe whom you have long been taught to miſcall Hereticks; But whether you do or no, I am to aſſure your Lord<g ref="char:EOLhyphen"/>ſhip, That all my Lords here, even they that have Condemn'd you, will never ceaſe to pray for you, that the End of your life may be Chriſtian and Pious, how Tragical ſoever the Means are that muſt bring you thither.</p>
+            <p>And now my Lord, this is the laſt time that I can call you My Lord; for the next words I am to ſpeak will At<g ref="char:EOLhyphen"/>taint you.</p>
+            <p>The Judgment of the Law is, And this Court doth Award, That</p>
+            <p>
+               <hi>YOu go to the Place from whence you came; from thence you muſt be drawn upon a Hurdle to the Place of Execution, When you come there, you muſt be Hang'd up by the Neck, but not till you are dead; for you muſt
+<pb n="12" facs="tcp:50992:6" rendition="simple:additions"/>
+                  <!-- PDF PAGE 45 -->be cut down alive; your Privy Mem<g ref="char:EOLhyphen"/>bers muſt be cut off, and your Bowels ript up before your face, and thrown into the Fire; Then your Head muſt be ſevered from your Body, and your Body divided into four Quarters; and theſe muſt be at the diſpoſal of the King.</hi>
+            </p>
+            <closer>And God Almighty be merciful to your Soul.</closer>
+         </div>
+         <div type="epilogue">
+            <p>After the Sentence pronounced, the Lord High Steward told the Priſoner, That the Houſe of Lords, in conſideration of his Quality, do intend to move the King to Pardon all the reſt of the Execution of this Sentence, except onely the taking off his Head.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
